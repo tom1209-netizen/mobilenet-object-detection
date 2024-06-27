@@ -17,7 +17,7 @@ To run this application locally, follow these steps:
 1. Clone the repository:
 ```bash
 git clone https://github.com/tom1209-netizen/mobilenet-object-detection.git
-cd object-detection-app
+cd mobilenet-object-detection
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
