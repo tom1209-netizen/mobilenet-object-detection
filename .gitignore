@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Idea junk
+.idea/
+
+# Mac junk
+.DS_Store
+
+# venv
+streamlit/
+
 # Distribution / packaging
 .Python
 build/
